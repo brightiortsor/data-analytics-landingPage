@@ -1,12 +1,12 @@
-
-import './App.css';
+import "./App.css";
+import UseReducer from "./components/UseReducer";
+import UseState from "./components/UseState";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        
-      </header>
+    <div className="">
+      {/* <UseState /> */}
+      <UseReducer />
     </div>
   );
 }
