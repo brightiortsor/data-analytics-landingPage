@@ -1,14 +1,10 @@
-import "./App.css";
-import Stopwatch from "./components/Stopwatch";
-import UseReducer from "./components/UseReducer";
-import UseState from "./components/UseState";
+import Navbar from "./components/Navbar";
+
 
 function App() {
   return (
-    <div className="">
-      {/* <UseState /> */}
-      {/* <UseReducer /> */}
-      <Stopwatch />
+    <div>
+<Navbar />
     </div>
   );
 }
