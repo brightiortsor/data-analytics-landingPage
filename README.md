@@ -1,2 +1,2 @@
-# React state management
+# Landing page for a data analytics website
 
